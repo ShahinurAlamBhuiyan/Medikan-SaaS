@@ -45,6 +45,3 @@ Here are some screenshots of the Helvetia Limousine website:
 ![Blog_Details Screenshot](/SiteSS/BlogDetails.png)
 
 
-### 🏠 Mobile Landing Page
-![Homepage Screenshot](/SiteSS/mobileView.png)
-
