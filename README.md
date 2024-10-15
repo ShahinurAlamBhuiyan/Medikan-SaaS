@@ -32,7 +32,7 @@ This project was developed as a part of a collaboration with a client from the U
 
 ## 📸 Project Screenshots
 
-Here are some screenshots of the Helvetia Limousine website:
+Here are some screenshots of the Medikan website:
 
 ### 🏠 Landing Page
 ![Landing Screenshot](/SiteSS/LandingPage.png)
