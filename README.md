@@ -3,8 +3,16 @@
 **Medikan** is a responsive frontend project designed to enhance clinic performance by redefining patient experience. Targeted towards clinics in the MENA region, this SaaS solution aims to streamline daily operations and improve patient engagement through a user-friendly interface and modern design principles.
 
 ## Overview
-
 This project was developed as a part of a collaboration with a client from the United Kingdom. The design was provided by the client through Figma, and the project was completed within a 7-day timeframe. The application was built using modern frontend technologies to ensure smooth and responsive performance across all devices.
+
+---
+
+## 🔐 Privacy Notice
+
+> **Important:** This project was developed for a **private client** on [Upwork](https://www.upwork.com).  
+> For privacy and NDA reasons, **the source code cannot be shared publicly**..
+
+---
 
 ## Features
 
